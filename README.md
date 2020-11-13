@@ -1,6 +1,6 @@
 ## TTK4250 - Assignment 6
 
-This is our awesome code for an awesome subject :)
+Code for a Probabilistic data association algorithm for single-target tracking.
 
 ## Code:
 
